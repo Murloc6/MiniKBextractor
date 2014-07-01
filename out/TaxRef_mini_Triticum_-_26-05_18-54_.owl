@@ -1,0 +1,100 @@
+<http://inpn.mnhn.fr/espece/cd_nom/198676>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "wheats"@en .
+
+<http://inpn.mnhn.fr/espece/cd_nom/127692>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/198676> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum orientale" , "Triticum aestivum" , "Triticum aestivum subsp. vulgare" , "Triticum segetale" , "Triticum touzelle" , "Triticum hybernum" , "Frumentum triticum" , "Triticum cereale" , "Triticum imberbe" , "Triticum sativum" , "Triticum sativum subsp. vulgare" , "Triticum vulgare subsp. hybernum" , "Triticum vulgare subsp. aestivum" , "Triticum vulgare subsp. sativum" , "Triticum sphaerococcum" , "Triticum persicum" , "Triticum compositum" , "Triticum amplissimum" , "Triticum vulgare" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Bl� tendre, Froment, Bl� ordinaire"@fr , "Bread Wheat"@en .
+
+<http://inpn.mnhn.fr/espece/cd_nom/718429>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/127692> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum aestivum subsp. aestivum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/620964>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/127692> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sativum var. compactum" , "Triticum compactum" , "Triticum aestivum subsp. compactum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/141957>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/127692> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum arias" , "Triticum duhamelianum" , "Triticum zea" , "Triticum forskalei" , "Triticum aestivum subsp. spelta" , "Triticum spelta subsp. aristatum" , "Spelta vulgaris" , "Triticum spelta subsp. muticum" , "Triticum arduini" , "Triticum spelta" , "Triticum sativum subsp. spelta" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "�peautre"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/127738>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/198676> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum goiranicum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/127771>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/198676> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum tenax" , "Triticum monococcum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Einkorn"@en , "Petit �peautre, Bl�-riz"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/718430>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/127771> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum monococcum subsp. monococcum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/127785>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/198676> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum turgidum subsp. polonicum" , "Triticum polonicum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/127827>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/198676> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum compositum" , "Triticum vulgare var. turgidum" , "Triticum turgidum" , "Triticum cereale var. turgidum" , "Triticum quadratum" , "Triticum aestivum var. turgidum" , "Triticum sativum var. turgidum" , "Triticum aestivum subsp. turgidum" , "Triticum linnaeanum" , "Triticum polonicum var. turgidum" , "Triticum sativum subsp. turgidum" , "Triticum vulgare subsp. turgidum" , "Triticum turgidum var. compositum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Rivet Wheat"@en , "Bl� poulard"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/621236>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/127827> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum dicoccon" , "Triticum diccocum" , "Triticum amyleum" , "Triticum turgidum subsp. dicoccon" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/141978>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/127827> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum candidissimum" , "Triticum siculum" , "Triticum sativum subsp. durum" , "Triticum pyramidale" , "Triticum turgidum subsp. durum" , "Triticum durum" , "Triticum brachystachys" , "Triticum alatum" , "Triticum hordeiforme" , "Triticum bauhinii" , "Triticum platystachyum" , "Triticum fastuosum" , "Triticum villosum" , "Triticum vulgare subsp. durum" , "Triticum aestivum subsp. durum" , "Triticum tenax subsp. turgidum" , "Triticum cochleare" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Bl� d'Afrique"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/718431>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/127827> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum turgidum subsp. turgidum" .

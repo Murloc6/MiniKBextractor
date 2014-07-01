@@ -1,0 +1,1135 @@
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1128247>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum sp. A.Guadamuz279" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum A.guadamuz279" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1129464>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum decumbens" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=576418>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum dasytrichium" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=576419>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum densum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=576420>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum macrophyllum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=576421>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum millegrana" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=576422>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum plenum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=576423>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum regnellii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1156521>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum sp. A.Guadamuz253" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum A.Guadamuz253" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1156520>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum sp. A.Guadamuz252" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum A.Guadamuz252" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547456>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum wrightii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547421>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum compressifolium" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547420>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum commune" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547423>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum distichum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1043335>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547423> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum distichum var. indutum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547422>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum denticulatum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum proliferum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547417>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum ceresia" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547416>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum bicilium" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547419>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum chaseanum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547418>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum chacoense" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547413>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum arundinaceum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547412>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum alcalinum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547415>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum bertonii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547414>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum atratum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547411>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum aff. jujuyense GHR507" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547455>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum virgatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547454>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum usteri" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547453>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum unispicatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547452>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum trichostomum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547451>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum stellatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547450>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum setaceum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547449>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum repens" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547448>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum polyphyllum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547447>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum plicatulum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547446>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum pilosum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547445>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum paucifolium" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547444>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum palustre" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547443>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum orbiculatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147272>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum notatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547442>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147272> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum notatum var. saurae" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547441>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum modestum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547439>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum mandiocanum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547440>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547439> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum mandiocanum var. subaequiglume" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547438>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum limbatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547436>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum lepton" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547437>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum lilloi" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547434>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum inconstans" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547435>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum indecorum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547432>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum humboldtianum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547433>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum inaequivalve" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547430>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum glabrinode" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547431>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum guenoarum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547428>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum flavum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547429>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum foliiforme" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547426>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum falcatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547427>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum fasciculatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547424>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum durifolium" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=547425>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum erianthum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=158147>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum paniculatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=158146>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum malacophyllum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=158145>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum haumanii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=158144>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum conspersum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=158150>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum wettsteinii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=158149>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum vaginatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=158148>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum remotum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=158170>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum glaziovii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Thrasya glaziovii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=158142>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum arundinellum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=158143>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum conjugatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=151521>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum simplex" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=173847>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum fimbriatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=173849>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum scrobiculatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=173848>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum quadrifarium" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=237894>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum lineare" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum lineare Trin." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313910>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum ovale" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313909>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum urvillei" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313908>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum subciliatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313907>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum ramboi" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313906>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum pumilum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313905>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum pauciciliatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313904>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum pallens" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313902>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum maculosum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313903>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum minus" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum minus E.Fourn." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313900>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum juergensii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313901>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum lividum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313898>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum intermedium" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313899>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum ionanthum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313896>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum filifolium" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313897>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum flaccidum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313894>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum ellipticum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313895>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum equitans" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313892>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum dedeccae" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313893>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum dilatatum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum dilatatum Poir." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=342058>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313893> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum dilatatum subsp. dilatatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=342059>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313893> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum dilatatum subsp. flavescens" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313890>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum cromyorhizon" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313891>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum dasypleurum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum dasypleurum Kunze ex Desv." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313888>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum coryphaeum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "non Paspalum brunneum Bosc. ex Fluegge" , "Paspalum corypheum" , "Paspalum brunneum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313889>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum conduplicatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313887>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum almum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=313886>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum acuminatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=314105>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum quarinii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum quarinii Morrone et Zuloaga" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1432478>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum sp. D1-004" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=325705>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum exaltatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=325703>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum rufum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424561>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum volcanense" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424560>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum umbrosum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424558>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum thrasyoides" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424559>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum trinitense" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424556>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum squamulatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424557>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum subsesquiglume" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424554>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum saccharoides" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424555>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum saugetii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424552>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum robustum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Thrasya robusta" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424553>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum rupestre" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424550>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum redondense" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424551>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum restingense" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424548>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum pulchellum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424549>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum pygmaeum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424546>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum prostratum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424547>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum pubiflorum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424544>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum procurrens" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424540>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum penicillatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424543>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum procerum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424542>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum petrense" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424537>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum oligostachyum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424536>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum multicaule" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424539>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum pectinatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424538>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum parviflorum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424533>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum malmeanum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424532>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum macranthecium" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424535>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum microstachyum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424534>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum maritimum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424529>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum lanciflorum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424528>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum hyalinum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424531>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum longiaristatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424530>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum lindenianum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424524>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum eucomum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424525>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum gardnerianum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424526>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum geminiflorum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424527>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum heterotrichon" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424520>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum cinerascens" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Thrasya cinerascens" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424521>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum cordatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424522>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum distortum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424523>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum ekmanianum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424516>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum caespitosum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424517>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum campylostachyum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424518>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum candidum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424519>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum capillifolium" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424512>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum altsonii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum alstonii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424513>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum biaristatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424514>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum boscianum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424515>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum buchtienii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1425351>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum petilum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=337418>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum barretoi" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=337421>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum nummularium" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum nummularium Chase ex Send. et A.G.Burm." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1043336>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum thunbergii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=463415>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum nutans" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum nutans Lam." .

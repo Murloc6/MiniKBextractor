@@ -1,0 +1,342 @@
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops L." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4491>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops umbellulata" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops umbellulata Zhuk." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4494>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops markgrafii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops markgrafii (Greuter) K.Hammer" , "Aegilops caudata L." , "Aegilops caudata" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4492>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops uniaristata" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops uniaristata Vis." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4493>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops columnaris" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops columnaris Zhuk." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4483>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops bicornis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum bicorne" , "Aegilops bicornis (Forssk.) Jaub. & Spach" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4481>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops crassa" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops crassa Boiss." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1080386>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4481> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops crassa var. glumiaristata" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4486>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops longissima" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum longissimum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296027>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4486> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops longissima subsp. TA 1921" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296026>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4486> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops longissima subsp. longissima" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4487>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops searsii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops searsii Feldman & Kislev ex K.Hammer" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4485>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops comosa" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Comopyrum comosum" , "Aegilops comosa Sm." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=93891>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4485> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops comosa var. subventricosa" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops heldreichii" , "Aegilops comosa var. subventricosa Boiss." , "Aegilops comosa subsp. subventricosa" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4573>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops speltoides" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum speltoides" , "Sitopsis speltoides" , "Aegilops speltoides Tausch" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58531>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4573> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops speltoides subsp. speltoides" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum speltoides var. speltoides" , "Triticum speltoides var. auchira" , "Aegilops speltoides var. speltoides" , "Aegilops speltoides var. auchira" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58532>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58531> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops speltoides var. ligustica" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum speltoides var. ligustica" , "Aegilops speltoides var. ligustica (Savign.) Fiori" , "Aegilops speltoides subsp. ligustica" , "Aegilops ligustica" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1340050>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58531> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops speltoides var. aucheri" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39391>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops triuncialis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum triunciale" , "Aegilops triuncialis L." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1424572>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39391> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops triuncialis var. persica" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum persicum" , "Aegilops persica" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=483160>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39391> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops triuncialis var. triuncialis" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=37682>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops tauschii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops squarrosa" , "Triticum tauschii" , "Aegilops squarrosa subsp. squarrosa" , "Patropyrum tauschii subsp. tauschii" , "Aegilops squarrosa auct., non L." , "Patropyrum tauschii" , "Triticum aegilops" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=169297>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=37682> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops tauschii subsp. tauschii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=70077>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=169297> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops tauschii var. meyeri" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops squarrosa subsp. meyeri" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296028>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=169297> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops tauschii var. anathera" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops tauschii var. anathera (Eig) K.Hammer" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=200361>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=37682> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops tauschii subsp. strangulata" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops tauschii subsp. strangulata (Eig) Tzvelev" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58530>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops sharonensis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum sharonense" , "Aegilops sharonensis Eig" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130461>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops peregrina" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops variabilis" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1080387>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130461> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops peregrina var. brachyathera" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1080388>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130461> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops peregrina var. peregrina" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=116981>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops ventricosa" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum ventricosum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130460>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops neglecta" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops triaristata Willd." , "Aegilops triaristata" , "Aegilops neglecta Req. ex Bertol." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130462>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops vavilovii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops vavilovii (Zhuk.) Chennav." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130456>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops cylindrica" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130457>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops juvenalis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops juvenalis (Thell.) Eig" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130458>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops kotschyi" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops kotschyi Boiss." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130459>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops geniculata" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops ovata" , "Aegilops geniculata Roth" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130455>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops biuncialis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Aegilops biuncialis Vis." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=698807>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops longissima x Aegilops tauschii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=698806>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops bicornis x Aegilops tauschii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=432383>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops sharonensis x Aegilops umbellulata" .

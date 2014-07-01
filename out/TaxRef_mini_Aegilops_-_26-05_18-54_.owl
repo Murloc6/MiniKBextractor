@@ -1,0 +1,151 @@
+<http://inpn.mnhn.fr/espece/cd_nom/188834>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/80263>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum macrochaetum" , "Aegilops biuncialis var. velutina" , "Aegilops ovata subsp. biuncialis" , "Aegilops biuncialis" , "Aegilops intermedia" , "Aegilops ovata var. biuncialis" , "Aegilops ovata subsp. macrochaeta" , "Triticum ovatum subsp. lorentii" , "Aegilops macrochaeta" , "Triticum biunciale" , "Aegilops biuncialis var. macrochaeta" , "Triticum lorentii" , "Triticum ovatum subsp. biunciale" , "Aegilops ovata var. macrochaeta" , "Aegilops lorentii" , "Aegilops biuncialis var. lorentii" , "Aegilops triaristata var. bispiculata" , "Aegilops ovata var. lorentii" , "Aegilops lorentii var. velutina" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "�gilope � grosses arr�tes, �gilope long de deux pouces"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/718298>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/80263> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops biuncialis subsp. biuncialis" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/159514>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops cylindrica var. caudata" , "Aegilops caudata" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/610755>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops columnaris" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/610756>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops crassa" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/80270>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops caudata" , "Triticum caudatum subsp. cylindricum" , "Aegilops cylindrica var. pauciaristata" , "Aegilops subulata" , "Aegilops cylindrica var. rumelica" , "Aegilops cylindrica var. ferruginea" , "Cylindropyrum cylindricum" , "Aegilops cylindrica var. albescens" , "Aegilops cylindrica var. brunnea" , "Aegilops cylindrica" , "Triticum cylindricum" , "Aegilops cylindrica var. prokhannovii" , "Aegilops cylindrica var. longiaristata" , "Aegilops squarrosa var. cylindrica" , "Aegilops cylindrica var. flavescens" , "Aegilops caudata subsp. cylindrica" , "Aegilops cylindrica var. fuliginosa" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "�gilope cylindrique"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/80278>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops ovata var. geniculata" , "Aegilops procera" , "Aegilops nigricans" , "Aegilops brachyathera" , "Frumentum ovatum" , "Aegilops parvula" , "Aegilops ovata var. nigricans" , "Phleum aegilops" , "Aegilops vagans" , "Aegilops ovata var. echinus" , "Triticum ovatum" , "Triticum vagans" , "Aegilops ovata" , "Aegilops erratica" , "Aegilops virescens" , "Aegilops pubiglumis" , "Aegilops geniculata" , "Aegilops ovata subsp. ovata" , "Triticum sylvestre" , "Aegilops ovata var. virescens" , "Aegilops microstachys" , "Aegilops ovata subsp. brachyathera" , "Aegilops sicula" , "Aegilops ovata var. erigens" , "Aegilops erigens" , "Aegilops notarisii" , "Aegilops echinus" , "Aegilops divaricata" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "�gilope ovale, �gilope ovo�de"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/80310>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops x sanctis-andreae" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/80282>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum juvenale" , "Aegilops juvenalis" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/80283>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum ligusticum" , "Agropyron ligusticum" , "Aegilops speltoides" , "Aegilops speltoides var. ligustica" , "Aegilops speltoides f. ligustica" , "Aegilops bicornis" , "Aegilops ligustica" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/610757>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops macrostachya" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/80288>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops ovata var. triaristata" , "Aegilops ovata var. trispiculata" , "Aegilops viridescens" , "Aegilops triaristata var. trojana" , "Aegilops campicola" , "Aegilops neglecta var. quadriaristata" , "Aegilops triaristata var. quadriaristata" , "Aegilops triaristata" , "Aegilops neglecta var. contorta" , "Aegilops algeriensis" , "Aegilops neglecta var. ochreata" , "Aegilops triaristata var. ochreata" , "Aegilops triaristata subsp. contorta" , "Aegilops neglecta var. trojana" , "Aegilops triaristata var. intermedia" , "Aegilops calida" , "Aegilops neglecta" , "Aegilops ovata subsp. triaristata" , "Aegilops croatica" , "Aegilops triaristata var. macrochaeta" , "Triticum triaristatum" , "Aegilops mesantha" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "�gilope n�glig�e, �gilope � trois ar�tes"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/80297>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops speltoides" , "Triticum tournefortii" , "Sitopsis speltoides" , "Aegilops tournefortii" , "Aegilops speltoides var. aucheri" , "Aegilops aucheri" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "�gilope faux �peautre"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/161993>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/80297> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops speltoides var. speltoides" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/159515>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops squarrosa" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/80302>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops triuncialis subsp. fascicularis" , "Aegilops triuncialis var. rubiginosa" , "Aegilops triuncialis var. leptostachys" , "Aegilops triuncialis" , "Aegilops triuncialis var. nigrorubiginosa" , "Triticum triunciale" , "Aegilops triuncialis var. brachyathera" , "Aegilops triuncialis var. assyriaca" , "Aegilops triuncialis var. nigroflavescens" , "Aegilops triuncialis var. nigroalbescens" , "Aegilops elongata" , "Aegilops echinata" , "Aegilops triuncialis subsp. caput-medusae" , "Aegilopodes triuncialis" , "Aegilops triuncialis var. nigroferruginea" , "Aegilops triuncialis var. brunnea" , "Aegilops triuncialis var. albescens" , "Aegilops triuncialis var. ferruginea" , "Aegilops triuncialis var. exaristata" , "Aegilops triuncialis var. flavescens" , "Aegilops bushirica" , "Aegilops triuncialis var. constantinopolitana" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "�gilope � trois ar�tes, �gilope de trois pouces"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/130864>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/80302> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops persica" , "Aegilops triuncialis subsp. persica" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/160336>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/80302> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops triuncialis var. triuncialis" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/80304>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/188834> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops ventricosa var. comosa" , "Aegilops fragilis" , "Aegilops ventricosa var. obscura" , "Gastropyrum ventricosum" , "Triticum ventricosum" , "Aegilops ventricosa" , "Aegilops squarrosa var. truncata" , "Aegilops ventricosa var. fragilis" , "Aegilops ventricosa var. truncata" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "�gilope ventru"@fr .

@@ -1,0 +1,95 @@
+<http://aims.fao.org/aos/agrovoc/c_148>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "एजिलॉप्स"@hi , "AEGILOPS"@de , "اژیلوپس"@fa , "タルホコムギ属"@ja , "山羊草属"@zh , "Aegilops"@ru , "Aegilops"@en , "Aegilops"@es , "Aegilops"@tr , "Aegilops"@hu , "Aegilops"@fr , "Aegilops"@th , "에이질롭속"@ko , "Aegilops"@pl , "قمحية"@ar , "Aegilops"@sk , "Aegilops"@cs , "Aegilops"@pt , "Aegilops"@it , "Aegilops"@lo ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "جنس گندم‌نیا"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_33581>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_148> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "एजिलॉप्स काउडाटा"@hi , "圆柱山羊草"@zh , "エギロプス　カウダタ"@ja , "Aegilops caudata"@th , "Aegilops caudata"@tr , "دوسر ذنبي"@ar , "Aegilops caudata"@cs , "Aegilops caudata"@lo , "Aegilops caudata"@fr , "Aegilops caudata"@es , "Aegilops caudata"@pl , "Aegilops caudata"@sk , "Aegilops caudata"@it , "Aegilops caudata"@ru , "Aegilops caudata"@en , "Aegilops caudata"@pt , "Aegilops caudata"@hu , "اژیلوپس کوداتا"@fa , "AEGILOPS CAUDATA"@de ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_33584>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_148> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops speltoides"@lo , "Aegilops speltoides"@es , "Aegilops speltoides"@ru , "Aegilops speltoides"@th , "स्पेलटोडीस"@hi , "クサビコムギ"@ja , "دوسر شبه مكنسي"@ar , "斯佩特状山羊草"@zh , "AEGILOPS SPELTOIDES"@de , "اژیلوپس اسپلتوییدس"@fa , "Aegilops speltoides"@it , "Aegilops speltoides"@en , "Aegilops speltoides"@tr , "Aegilops speltoides"@sk , "Aegilops speltoides"@fr , "Aegilops speltoides"@pl , "Aegilops speltoides"@pt , "Aegilops speltoides"@hu , "Aegilops speltoides"@cs ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_33583>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_148> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops cylindrica"@sk , "Aegilops cylindrica"@pl , "دوسر إسطواني"@ar , "Aegilops cylindrica"@lo , "Aegilops cylindrica"@es , "Aegilops cylindrica"@en , "Aegilops cylindrica"@tr , "Aegilops cylindrica"@fr , "ヤギムギ"@ja , "एजिलॉप्स सिलिन्ड्रिका"@hi , "اژیلوپس سیلندریکا"@fa , "具节山羊草"@zh , "Aegilops cylindrica"@pt , "Aegilops cylindrica"@hu , "Aegilops cylindrica"@it , "Aegilops cylindrica"@th , "Aegilops cylindrica"@cs , "AEGILOPS CYLINDRICA"@de , "Aegilops cylindrica"@ru ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "گندم‌نیای استوانه‌ای"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_33588>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_148> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "エギロプス　ウェントリコサ"@ja , "دوسر منتفخ"@ar , "AEGILOPS VENTRICOSA"@de , "偏凸山羊草"@zh , "Aegilops ventricosa"@es , "Aegilops ventricosa"@it , "Aegilops ventricosa"@lo , "Aegilops ventricosa"@ru , "Aegilops ventricosa"@tr , "Aegilops ventricosa"@fr , "Aegilops ventricosa"@th , "Aegilops ventricosa"@pt , "Aegilops ventricosa"@sk , "Aegilops ventricosa"@hu , "Aegilops ventricosa"@en , "वेन्ट्रिकोसा"@hi , "Aegilops ventricosa"@cs , "Aegilops ventricosa"@pl , "اژیلوپس ونتریکوزا"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_33582>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_148> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "粗山羊草"@zh , "AEGILOPS CRASSA"@de , "اژیلوپس کراسا"@fa , "एजिलॉप्स क्रांसा"@hi , "دوسر سميك"@ar , "エギロプ　クラスッサ"@ja , "Aegilops crassa"@en , "Aegilops crassa"@sk , "Aegilops crassa"@fr , "Aegilops crassa"@es , "Aegilops crassa"@lo , "Aegilops crassa"@th , "Aegilops crassa"@it , "Aegilops crassa"@ru , "Aegilops crassa"@tr , "Aegilops crassa"@pt , "Aegilops crassa"@cs , "Aegilops crassa"@pl , "Aegilops crassa"@hu ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "گندم‌نیای ضخیم"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_33586>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_148> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops umbellulata"@tr , "Aegilops umbellulata"@th , "Aegilops umbellulata"@it , "三穗山羊草"@zh , "Aegilops umbellulata"@es , "Aegilops umbellulata"@hu , "Aegilops umbellulata"@fr , "Aegilops umbellulata"@pt , "Aegilops umbellulata"@lo , "अमबेललाता"@hi , "اژیلوپس اومبلولاتا"@fa , "دوسر مظلي"@ar , "AEGILOPS UMBELLULATA"@de , "Aegilops umbellulata"@sk , "エギロプス　ウムベルラタ"@ja , "Aegilops umbellulata"@cs , "Aegilops umbellulata"@pl , "Aegilops umbellulata"@ru , "Aegilops umbellulata"@en ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "گندم‌نیای چترکی"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_33585>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_148> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "AEGILOPS SQUARROSA"@de , "节节草"@zh , "Aegilops squarrosa"@sk , "Aegilops squarrosa"@en , "Aegilops squarrosa"@pt , "Aegilops squarrosa"@lo , "Aegilops squarrosa"@th , "Aegilops squarrosa"@hu , "Aegilops squarrosa"@tr , "Aegilops squarrosa"@fr , "Aegilops squarrosa"@es , "Aegilops squarrosa"@cs , "Aegilops squarrosa"@it , "Aegilops squarrosa"@pl , "Aegilops squarrosa"@ru , "دوسر مربع"@ar , "स्कवारोसा"@hi , "اژیلوپس اسکوآروزا"@fa , "タルホコムギ"@ja ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_33587>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_148> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Aegilops variabilis"@it , "Aegilops variabilis"@th , "Aegilops variabilis"@es , "Aegilops variabilis"@lo , "Aegilops variabilis"@hu , "Aegilops variabilis"@pt , "Aegilops variabilis"@ru , "Aegilops variabilis"@en , "AEGILOPS VARIABILIS"@de , "دوسر متغير"@ar , "वैरीआबिलिस"@hi , "エギロプス　ウァリアビリス"@ja , "اژیلوپس واریابیلیس"@fa , "Aegilops variabilis"@pl , "Aegilops variabilis"@cs , "Aegilops variabilis"@sk , "变异山羊草"@zh , "Aegilops variabilis"@tr , "Aegilops variabilis"@fr ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_33921>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_148> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "एजिलॉप्स लान्जिसिमा"@hi , "اژیلوپس لونژیسیما"@fa , "AEGILOPS LONGISSIMA"@de , "エギロプス　ロンギスシマ"@ja , "Aegilops longissima"@ru , "Aegilops longissima"@it , "Aegilops longissima"@hu , "Aegilops longissima"@th , "Aegilops longissima"@lo , "Aegilops longissima"@pt , "Aegilops longissima"@es , "Aegilops longissima"@pl , "Aegilops longissima"@cs , "Aegilops longissima"@en , "Aegilops longissima"@fr , "Aegilops longissima"@sk , "Aegilops longissima"@tr , "دوسر طويل"@ar , "长山羊草"@zh ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .

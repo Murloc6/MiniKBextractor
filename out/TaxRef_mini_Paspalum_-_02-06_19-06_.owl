@@ -1,0 +1,253 @@
+<http://inpn.mnhn.fr/espece/cd_nom/195870>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum"@fr , "finger-grasses"@en .
+
+<http://inpn.mnhn.fr/espece/cd_nom/446319>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum conjugatum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Herbe de Tauère"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/639597>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/446319> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum conjugatum var. pubescens" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630311>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum vaginiflorum" , "Paspalum pedunculatum" , "Panicum decumbens" , "Dimorphostachys pedunculata" , "Paspalum decumbens" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630312>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum paniceum" , "Paspalum densum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/112482>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum pauciciliatum" , "Paspalum lanatum" , "Digitaria dilatata" , "Paspalum dilatatum var. decumbens" , "Paspalum dilatatum var. sacchariferum" , "Paspalum pedunculare" , "Paspalum dilatatum var. pauciciliatum" , "Panicum platense" , "Paspalum platense" , "Paspalum ovatum" , "Paspalum ovatum var. grandiflorum" , "Paspalum eriophorum" , "Paspalum dilatatum" , "Paspalum dilatatum var. eriophorum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Dallis-grass"@en , "Paspale dilaté"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630313>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum dispar" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/112483>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Panicum paspaliforme" , "Paspalum elliotti" , "Digitaria disticha" , "Paspalum chepica" , "Paspalum distichum" , "Paspalum schaffneri" , "Digitaria paspalodes" , "Anastrophus paspalodes" , "Paspalum fernandezianum" , "Paspalum vaginatum var. pubescens" , "Paspalum digitaria" , "Paspalum paspalodes" , "Paspalum distichum var. digitaria" , "Paspalum distichum subsp. distichum" , "Milium paspalodes" , "Paspalum michauxianum" , "Paspalum distichum subsp. digitaria" , "Panicum polyrrhizum" , "Paspalum distichum subsp. paspalodes" , "Digitaria vaginata" , "Digitaria paspaliformis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Water Finger-grass"@en , "Paspale à deux épis"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630314>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum vaginatum var. pleostachyum" , "Paspalum fasciculatum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630315>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum fimbriatum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630316>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum floribundum" , "Paspalum milioideum" , "Paspalum laxum" , "Paspalum helleri" , "Paspalum tenacissimum" , "Paspalum rhizomatosum" , "Paspalum glabrum" , "Paspalum koleopodum" , "Paspalum richardii" , "Paspalum miliare" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630317>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum olivaceum" , "Paspalum melanospermum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630318>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum underwoodii" , "Paspalum karwinskii" , "Paspalum millegranum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630319>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum portoricense" , "Paspalum molle" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/671852>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum moratii" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630320>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum nesiotes" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/446320>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum taphrophyllum" , "Paspalum saltense" , "Paspalum notatum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630321>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum setaceum" , "Paspalum lloydii" , "Paspalum curvistachyum" , "Paspalum nutans" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum penché"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/446321>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum orbiculare" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/674504>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/446321> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum orbiculare f. villosa" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630322>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum serpens" , "Paspalum pusillum" , "Paspalum lenormandi" , "Paspalum orbiculatum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/446322>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum affine" , "Paspalum paniculatum" , "Paspalum strictum" , "Panicum paniculatum" , "Paspalum cordovense" , "Paspalum hemisphericum" , "Paspalum compressicaule" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum paniculé, Herbe duvet"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/621658>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum distichum subsp. paucispicatum" , "Paspalum paucispicatum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630323>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum secans" , "Paspalum pleostachyum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/446323>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum undulatum" , "Paspalum pauperculum" , "Paspalum montevidense" , "Paspalum lenticulare" , "Paspalum antillense" , "Panicum plicatulum" , "Paspalum plicatulum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/112507>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum laeviglume" , "Paspalum pubiflorum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspale"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630324>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Tricholaena saccharoides" , "Paspalum polystachyum" , "Paspalum saccharoides" , "Saccharum polystachyum" , "Panicum saccharoides" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/446324>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum commersonii" , "Paspalum scrobiculatum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/707249>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/446324> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum scrobiculatum var. commersonii" , "Paspalum scrobiculatum var. bispicatum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/631033>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum setaceum" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/631109>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/631033> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum propinquum" , "Paspalum ciliatifolium" , "Paspalum setaceum var. ciliatifolium" , "Paspalum debile" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630325>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum vaseyanum" , "Paspalum larranagai" , "Paspalum urvillei" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum d'Urville, Herbe de Vasey"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/112515>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum distichum" , "Digitaria vaginata" , "Digitaria vaginata var. longipes" , "Sanguinaria vaginata" , "Paspalum gayanum" , "Panicum vaginatum" , "Paspalum littorale" , "Paspalum inflatum" , "Paspalum distichum var. longerepens" , "Paspalum distichum subsp. vaginatum" , "Paspalum distichum var. ampinense" , "Paspalum brachiatum" , "Paspalum kleineanum" , "Paspalum boryanum" , "Paspalum distichum var. vaginatum" , "Paspalum squamatum" , "Paspalum vaginatum" , "Paspalum reimarioides" , "Paspalum foliosum" , "Digitaria tristachya" , "Digitaria foliosa" , "Paspalum tristachyum" , "Paspalum vaginatum var. longipes" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Paspalum vaginé"@fr .
+
+<http://inpn.mnhn.fr/espece/cd_nom/446325>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195870> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum virgatum var. stramineum" , "Paspalum virgatum var. jacquinianus" , "Paspalum leucocheilum" , "Paspalum lagascae var. virgatum" , "Paspalum virgatum" .

@@ -1,0 +1,348 @@
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza L." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4537>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza punctata" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4536>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza nivara" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza sativa f. spontanea Roshev. nom. illeg." , "Oryza sativa f. spontanea" , "Oryza nivara S.D.Sharma & Shastry" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4538>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza glaberrima" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza glaberrima Steud." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4529>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza rufipogon" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4528>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza longistaminata" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4530>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sativa" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39947>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4530> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sativa Japonica Group" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza sativa subsp. japonica" , "Oryza sativa (japonica cultivar-group)" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39946>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4530> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sativa Indica Group" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza sativa subsp. indica" , "Oryza sativa (indica group)" , "Oryza sativa (indica cultivar-group)" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1050722>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4530> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sativa Indica Group x Oryza sativa Japonica Group" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1080340>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4530> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sativa Japonica Group x Oryza sativa Indica Group" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4533>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza brachyantha" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4532>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza australiensis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza australiensis Domin" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4535>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza officinalis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza officinalis Wall. ex G.Watt" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4534>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza latifolia" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza latifolia Desv." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29691>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza perennis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza perennis Moench, nom. dub." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29690>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza grandiglumis" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29689>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza eichingeri" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza eichingeri Peter" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=40149>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza meridionalis" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=40148>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza glumipatula" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza glumaepatula" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52545>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza alta" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza alta Swallen" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52841>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sp." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=65489>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza barthii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza breviligulata" , "Oryza barthii A.Chev." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=65491>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza rhizomatis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza rhizomatis D.A.Vaughan" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=63629>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza minuta" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza minuta J.Presl" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=551113>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sativa x Oryza glaberrima" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1054584>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sativa x Oryza longistaminata" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77588>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza coarctata" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Porteresia coarctata (Roxb.) Tateoka" , "Oryza coarctata Roxb." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=83307>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza meyeriana" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza meyeriana (Zoll. & Moritzi) Baill." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=83309>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza longiglumis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza longiglumis Jansen" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=83308>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza ridleyi" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza ridleyi Hook.f." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1077957>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza rufipogon x Oryza sativa" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=110450>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza granulata" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza meyeriana var. granulata (Nees & Arn. ex G.Watt) Duist." , "Oryza meyeriana var. granulata" , "Oryza granulata Nees & Arn. ex G.Watt" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=110451>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza schlechteri" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza schlechteri Pilg." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=127571>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza malampuzhaensis" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza malampuzhaensis Krishnasw. & Chandrasekh." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=699967>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza neocaledonica" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=311553>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sativa (Indica Group) x Oryza nivara" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza sativa (indica cultivar-group) x Oryza nivara" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1351824>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza nivara x Oryza sativa" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1353323>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sp. 84b" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=364100>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sp. IRGC 105360" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza sativa f. spontanea IRRI 105360" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=364099>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sp. IRGC 81916" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Oryza sativa f. spontanea IRRI 81916" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=441961>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza glaberrima x Oryza sativa" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=471963>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza nivara x Oryza rufipogon" .

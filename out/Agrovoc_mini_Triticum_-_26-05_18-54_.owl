@@ -1,0 +1,114 @@
+<http://aims.fao.org/aos/agrovoc/c_7950>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "TRITICUM"@de , "小麦属"@zh , "트리티컴속"@ko , "コムギ属"@ja , "قمح"@ar , "Triticum"@pl , "Triticum"@it , "Triticum"@fr , "تریتیکوم"@fa , "Triticum"@tr , "Triticum"@en , "Triticum"@ru , "Triticum"@hu , "Triticum"@th , "Triticum"@pt , "Triticum"@es , "Triticum"@sk , "Triticum"@cs , "Triticum"@lo , "ट्रिटीकम / गेहूँ"@hi ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "جنس گندم"@fa , "Pszenica"@pl ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_7951>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_7950> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "밀"@ko , "تریتیکوم استیووم"@fa , "Triticum aestivum"@es , "Triticum aestivum"@tr , "Triticum aestivum"@th , "Triticum aestivum"@pt , "Triticum aestivum"@hu , "Triticum aestivum"@cs , "Triticum aestivum"@pl , "Triticum aestivum"@it , "Triticum aestivum"@sk , "Triticum aestivum"@fr , "Triticum aestivum"@ru , "Triticum aestivum"@lo , "Triticum aestivum"@en , "パンコムギ"@ja , "ट्रिटीकम् एस्टीवम"@hi , "普通小麦"@zh , "قمح صيفي"@ar , "TRITICUM AESTIVUM"@de ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum sativum"@it , "Triticum sativum"@th , "Triticum sativum"@es , "pšenica siata"@sk , "Triticum sativum"@pl , "Triticum sativum"@hu , "Triticum sativum"@pt , "TRITICUM SATIVUM"@de , "Vicia sativa"@sk , "Triticum sativum"@sk , "Triticum sativum"@en , "보통계밀"@ko , "Triticum sativum"@ru , "Triticum sativum"@fr , "Triticum sativum"@tr , "common wheat"@en , "밀(학명)"@ko , "Blé tendre (triticum aestivum)"@fr , "साधारण गेहूँ"@hi , "Corn (triticum)"@en , "Trigo blando"@es , "قمح شائع"@ar , "Blé ordinaire"@fr , "Grano comune"@it , "ट्रिटीकम् वल्गेयर"@hi , "közönséges búza"@hu , "ข้าวโพด (triticum)"@th , "Triticum vulgare"@fr , "Triticum vulgare"@th , "Triticum vulgare"@es , "Triticum vulgare"@pl , "Triticum vulgare"@en , "зерно мягкой пшеницы"@ru , "Triticum vulgare"@it , "Triticum vulgare"@sk , "Triticum vulgare"@tr , "Triticum vulgare"@ru , "Triticum vulgare"@pt , "Triticum vulgare"@hu , "تريتيكوم ساتیوم"@fa , "تريتيكوم ولگار"@fa , "گندم معمولي"@fa , "pšenice setá"@cs , "Adi buğday"@tr , "pšenice obecná"@cs , "Pszenica zwyczajna"@pl , "triticum vulgare"@cs , "コーン"@ja , "TRITICUM VULGARE"@de , "ट्रिटीकम् सटाइवम"@hi , "قمح مزروع"@ar , "búza"@hu , "Trigo comum"@pt , "普通コムギ"@ja , "Trigo candeal (triticum aestivum)"@es , "пшеница мягкая"@ru , "triticum sativum"@cs , "五谷"@zh , "अनाज (ट्रिटिकम)"@hi ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_7956>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_7950> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "تریتیکوم مونوکوکوم"@fa , "TRITICUM MONOCOCCUM"@de , "قمح وحيد الحبة"@ar , "ट्रिटीकम् मोनोकोकम्"@hi , "Triticum monococcum"@tr , "Triticum monococcum"@sk , "Triticum monococcum"@it , "Triticum monococcum"@ru , "单粒小麦"@zh , "Triticum monococcum"@lo , "Triticum monococcum"@es , "Triticum monococcum"@cs , "Triticum monococcum"@pt , "Triticum monococcum"@en , "Triticum monococcum"@pl , "Triticum monococcum"@th , "Triticum monococcum"@hu , "Triticum monococcum"@fr , "一粒コムギ"@ja ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Pszenica samopsza"@pl , "EINKORN"@de , "пшеница однозернянка"@ru , "Trigo de un grano"@es , "alakor"@hu , "Yabani kaplıca buğdayı"@tr , "pšenice jednozrnka"@cs , "Trigo de uma semente"@pt , "Einkorn"@en , "Einkorn"@tr , "Kaplıca buğdayı"@tr , "pšenica jednozrnná"@sk , "Engrain"@fr , "アインコルン"@ja , "Escanda menor"@es , "Farro piccolo"@it , "ఇన్   కార్న్"@te , "گندم يكدانه"@fa , "इनकार्न"@hi , "گندم تک‌دانه‌ای"@fa , "一粒小麦"@zh , "Esprilla"@es ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_7952>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_7950> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "波埃奥梯小麦"@zh , "野生一粒系小麦"@ja , "ट्रिटीकम् बोइयोटिकम"@hi , "تریتیکوم بئوتیکوم"@fa , "Triticum boeoticum"@tr , "Triticum boeoticum"@ru , "Triticum boeoticum"@hu , "Triticum boeoticum"@es , "Triticum boeoticum"@it , "Triticum boeoticum"@th , "Triticum boeoticum"@pt , "Triticum boeoticum"@lo , "Triticum boeoticum"@cs , "Triticum boeoticum"@sk , "Triticum boeoticum"@fr , "Triticum boeoticum"@pl , "Triticum boeoticum"@en , "قمح بويتي"@ar , "TRITICUM BOEOTICUM"@de ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "گندم یونانی"@fa , "однозернянка дикая беотийская"@ru ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_7955>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_7950> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "ट्रिटीकम् ड्यूरम"@hi , "Triticum durum"@cs , "Triticum durum"@hu , "Triticum durum"@pl , "Triticum durum"@en , "Triticum durum"@fr , "Triticum durum"@th , "Triticum durum"@lo , "Triticum durum"@es , "Triticum durum"@ru , "Triticum durum"@it , "Triticum durum"@sk , "Triticum durum"@pt , "Triticum durum"@tr , "قمح قاس"@ar , "デュラムコムギ"@ja , "硬粒小麦(植物)"@zh , "듀럼밀"@ko , "تریتیکوم دوروم"@fa , "TRITICUM DURUM"@de ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Trigo moruno"@es , "Trigo de fideos"@es , "Trigo semolero"@es , "Trigo moro"@es , "Trigo fanfarrón"@es , "گندم الجزایری"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_7958>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_7950> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "TRITICUM TURGIDUM"@de , "Triticum turgidum"@it , "Triticum turgidum"@th , "Triticum turgidum"@pl , "Triticum turgidum"@hu , "Triticum turgidum"@lo , "Triticum turgidum"@tr , "Triticum turgidum"@fr , "Triticum turgidum"@cs , "Triticum turgidum"@sk , "Triticum turgidum"@ru , "Triticum turgidum"@en , "Triticum turgidum"@pt , "Triticum turgidum"@es , "オリエントコムギ"@ja , "تریتیکوم تورژیدوم"@fa , "잉글리쉬휘트"@ko , "قمح سمين"@ar , "ट्रिटीकम् टर्जिडम्"@hi , "肿胀小麦"@zh ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Pszenica szorstka"@pl , "कीलक गेंहूँ"@hi , "őszi tönke"@hu , "リベットコムギ"@ja , "گندم انگليسي"@fa , "pšenice anglická"@cs , "Trigo candeal (triticum turgidum)"@es , "pšenice naduřelá"@cs , "rivet wheat"@en , "अंग्रेजी गेंहू"@hi , "пшеница тучная"@ru , "Pszenica angielska"@pl , "İngiliz buğdayı"@tr , "ENGLISCHER WEIZEN"@de , "گندم نوک‌اردکی"@fa , "리베트휘트"@ko , "イギリスコムギ"@ja , "Trigo remache"@es , "пшеница тургидум"@ru , "durum"@hu , "Farro medio"@it , "ఇంగ్లీష్ వీట్"@te , "Trigo túrgido"@pt , "pšenica hrubozrnná"@sk , "Trigo redondillo"@es , "пшеница английская"@ru , "圆柱小麦"@zh , "Blé poulard"@fr , "Trigo poulard"@es , "English wheat"@en , "Grano grosso"@it ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_7954>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_7950> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "双粒小麦"@zh , "Triticum dicoccum"@th , "Triticum dicoccum"@hu , "Triticum dicoccum"@es , "Triticum dicoccum"@lo , "Triticum dicoccum"@en , "TRITICUM DICOCCUM"@de , "Triticum dicoccum"@pl , "Triticum dicoccum"@it , "Triticum dicoccum"@sk , "Triticum dicoccum"@pt , "Triticum dicoccum"@cs , "Triticum dicoccum"@tr , "Triticum dicoccum"@ru , "Triticum dicoccum"@fr , "قمح ثنائي الحبة"@ar , "エンマーコムギ"@ja , "ट्रिटीकम् डाइकोकम्"@hi , "تریتیکوم دیکوکوم"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "полба обыкновенная"@ru , "Pszenica płaskurka (roślina uprawna)"@pl , "एमर (कृष्य)"@hi , "EMMER (KULTIVIERT)"@de , "Trigo almidonero"@es , "二粒小麦"@zh , "Trigo emmer"@pt , "Trigo emmer"@es , "pšenice dvojzrnka"@cs , "Escanda mayor"@es , "Emmer buğdayı (kültüre alınmış)"@tr , "tönke (termesztett)"@hu , "ఒక రకం గోధుమ"@te , "Emmer (cultivated)"@en , "Escanda de dos carreras"@es , "گندم لری"@fa , "pšenica dvojzrnová"@sk , "گندم دودانه (زراعي)"@fa , "Escanda almidonera"@es , "Farro (coltivato)"@it ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_7957>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_7950> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "تریتیکوم اسپلتا"@fa , "خندروس"@ar , "斯佩尔特小麦"@zh , "Triticum spelta"@ru , "Triticum spelta"@pt , "Triticum spelta"@it , "Triticum spelta"@sk , "Triticum spelta"@th , "Triticum spelta"@es , "Triticum spelta"@hu , "Triticum spelta"@cs , "Triticum spelta"@fr , "Triticum spelta"@en , "ट्रिटीकम् स्पेल्टा"@hi , "Triticum spelta"@tr , "Triticum spelta"@lo , "Triticum spelta"@pl , "スペルトコムギ"@ja , "스펠타밀"@ko , "TRITICUM SPELTA"@de ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "گندم آلمانی"@fa , "كندروس"@fa , "گندم شهر کردی"@fa , "tönköly"@hu , "Pszenica orkisz"@pl , "SPELZ"@de , "спельта"@ru , "Espelta"@es , "स्पेल्ट"@hi , "Orkisz"@pl , "Spelt"@en , "Kızıl buğday"@tr , "Kılçıksız buğday"@tr , "špalda"@cs , "Spelta"@it , "Trigo espelta"@pt , "Escana doble silvestre"@es , "pšenica špaldová"@sk , "Épeautre"@fr ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_7953>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_7950> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum dicoccoides"@ru , "Triticum dicoccoides"@tr , "تریتیکوم دیکوکوییدس"@fa , "ट्रिटीकम् डाइकोक्वायड्स"@hi , "قمح ثنائي"@ar , "TRITICUM DICOCCOIDES"@de , "Triticum dicoccoides"@it , "Triticum dicoccoides"@th , "Triticum dicoccoides"@fr , "Triticum dicoccoides"@cs , "野生二粒小麦"@zh , "Triticum dicoccoides"@sk , "Triticum dicoccoides"@hu , "Triticum dicoccoides"@en , "パレスチナコムギ"@ja , "Triticum dicoccoides"@pt , "Triticum dicoccoides"@pl , "Triticum dicoccoides"@es , "Triticum dicoccoides"@lo ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "エンマーコムギ"@ja , "Amidonnier sauvage"@fr , "Pszenica płaskurka (roślina dzika)"@pl , "Farro (spontaneo)"@it , "एमर (जंगली)"@hi , "pšenica dvojzrnovitá"@sk , "野小麦"@zh , "EMMER (WILD)"@de , "pšenice dvojzrnná"@cs , "Emmer buğdayı (yabani)"@tr , "ఒక రకం అడవి గోధుమ"@te , "Emmer (wild)"@en , "Trigo almidonero salvaje"@es , "полба дикая"@ru , "گندم دودانه (وحشي)"@fa , "tönke (vad)"@hu ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_7337>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_7950> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Blé de printemps"@fr , "Yazlık buğday"@tr , "춘파소맥"@ko , "Trigo de primavera"@pt , "Trigo de primavera"@es , "tavaszi búza"@hu , "jarní pšenice"@cs , "春小麦"@zh , "pšenica jarná"@sk , "Frumento primaverile"@it , "Pszenica jara"@pl , "春播きコムギ"@ja , "گندم بهاره"@fa , "яровая пшеница"@ru , "ข้าวสาลีฤดูใบไม้ผลิ"@th , "SOMMERWEIZEN"@de , "Spring wheat"@en , "बसन्त गेहूँ"@hi ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_8412>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_7950> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "озимая пшеница"@ru , "शीत गेंहूँ"@hi , "ozimá pšenice"@cs , "Kışlık buğday"@tr , "Pszenica ozima"@pl , "WINTERWEIZEN"@de , "Blé d'hiver"@fr , "ข้าวสาลีที่ปลูกในฤดูใบไม้ร่วง"@th , "ozimná pšenica"@sk , "Trigo de inverno"@pt , "추파소맥"@ko , "秋播きコムギ"@ja , "Trigo de invierno"@es , "Frumento autunno-vernino"@it , "õszi búza"@hu , "گندم زمستانه"@fa , "Winter wheat"@en , "冬小麦"@zh ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .

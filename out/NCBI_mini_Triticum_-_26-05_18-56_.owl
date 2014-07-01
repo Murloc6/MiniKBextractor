@@ -1,0 +1,639 @@
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum L." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4572>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum urartu" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum urartu Tumanian ex Gandilyan" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538173>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4572> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum urartu var. urartu" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538174>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4572> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum urartu var. pubescentiurartu" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=460378>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4572> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum urartu var. nigrum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum turgidum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum turgidum L." , "Triticum aethiopicum Jakubz." , "Triticum aethiopicum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum turgidum subsp. dicoccon" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum turgidum subsp. dicoccum" , "Triticum turgidum subsp. dicoccon (Schrank ex Schuebl.) Thell." , "Triticum dicoccum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum turgidum subsp. paleocolchicum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum turgidum subsp. paleocolchicum A.Love & D.Love" , "Triticum paleocolchicum" , "Triticum karamyschevii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum turgidum subsp. pyramidale" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum carthlicum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum turgidum subsp. carthlicum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum turgidum subsp. turgidum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4570>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum timopheevii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum timopheevii (Zhuk.) Zhuk." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58932>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4570> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum timopheevii subsp. timopheevii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum militinae Zhuk. & Migush." , "Triticum militinae" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=103802>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4570> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum timopheevii subsp. armeniacum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum armeniacum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=860351>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4570> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum timopheevii subsp. araraticum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4569>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum monococcum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Crithodium monococcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52163>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum monococcum subsp. aegilopoides" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum boeoticum" , "Triticum monococcum subsp. boeoticum" , "Triticum baeoticum subsp. baeoticum" , "Triticum monococcum var. boeoticum" , "Triticum boeoticum subsp. boeoticum" , "Triticum aegilopoides" , "Triticum baeoticum" , "Triticum thaoudar" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=408188>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum monococcum subsp. monococcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=543982>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=408188> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum monococcum var. pseudoflavescens" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77603>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum monococcum subsp. sinskajae" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum sinskajae" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum durum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum turgidum subsp. durum" , "Triticum rigidum var. durum" , "Triticum rigidum ssp. durum" , "Triticum rigidum conv. durum" , "Triticum durum subsp. durum" , "Triticum durum ssp. durum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4566>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum aestivum x Triticum timopheevi" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum timopheevii x Triticum aestivum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum aestivum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum vulgare" , "Triticum aestivum subsp. aestivum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=570172>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum aestivum var. albirubrinflatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum aestivum var. vavilovii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum vavilovii" , "Triticum vavilovi" , "Triticum aestivum subsp. vavilovii" , "Triticum aestivum Vavilovii Group" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum aestivum subsp. tibeticum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum aestivum var. erythrospermum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum aestivum subsp. aestivum var. erythrospermum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum aestivum subsp. yunnanense" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum dicoccoides" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum turgidum var. dicoccoides" , "Triticum turgidum subsp. dicoccoides" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538172>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum dicoccoides var. namuricum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538169>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum dicoccoides var. aaronsohnii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538171>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum dicoccoides var. macraaronsohnii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538170>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum dicoccoides var. kotschyi" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum durum x Triticosecale sp." ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum turgidum subsp. durum x Triticosecale sp." .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum spelta" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum aestivum subsp. spelta" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1108845>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum spelta var. album" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum spelta var. arduini" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum aestivum var. arduini" , "Triticum aestivum subsp. spelta var. arduini" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum spelta var. duhamelianum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum aestivum var. duhamelianum" , "Triticum aestivum subsp. spelta var. duhamelianum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum compactum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum aestivum subsp. compactum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum compactum var. humboldtii" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum aestivum var. humboldtii" , "Triticum aestivum subsp. compactum var. humboldtii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum macha" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum aestivum subsp. macha" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum macha var. subletschumicum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum aestivum var. subletschumicum" , "Triticum aestivum subsp. macha var. sub-letschumicum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum polonicum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum turgidum subsp. polonicum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sphaerococcum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum aestivum subsp. sphaerococcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=879235>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sphaerocuccum var. globosum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=879234>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sphaerococcum var. rotundatum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77602>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum zhukovskyi" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum zhukovskyi A.M.Menabde & Eritzjan" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203452>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E76Smono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203453>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_M6Sdcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203454>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E1Amono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203455>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_M5Sdcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203448>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_M3Sdcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203450>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_M4Sdcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203451>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E65Smono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203447>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E2Amono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203467>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E16Amono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203466>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_M59Adcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203465>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_M53Sdcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203464>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E28Amono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203469>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_M67Adcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203468>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E24Amono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203459>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E15Amono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203458>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E10Amono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203457>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E108Smono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203456>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_M7Sdcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203463>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_M8Sdcum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203462>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E102Smono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203461>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E39Amono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203460>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum sp. CH_E19Amono" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1413217>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum aestivum x Triticum dicoccoides" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376536>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum flaksbergeri" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376537>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum palmovae" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum turanicum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum turgidum subsp. turanicum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376535>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum kiharae" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376532>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum ispahanicum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376533>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum antiquorum" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376530>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum x timococcum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum x timococcum Kostov" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376531>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum x dimococcum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum x dimococcum Schiem. & Staudt" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376528>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum x fungicidum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum carthlicum x Triticum timopheevii" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376529>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum x soveticum" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Triticum x sovieticum Zhebrak ex Thone" .
+
+<http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=501337>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Triticum petropavlovskyi" .

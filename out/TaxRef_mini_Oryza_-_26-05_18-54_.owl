@@ -1,0 +1,27 @@
+<http://inpn.mnhn.fr/espece/cd_nom/195564>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/671851>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza neocaledonica" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/630278>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sativa var. benghalensis" , "Oryza cubensis" , "Oryza barthii" , "Oryza perennis" .
+
+<http://inpn.mnhn.fr/espece/cd_nom/111793>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://inpn.mnhn.fr/espece/cd_nom/195564> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Padia meyeriana" , "Oryza sativa var. rubribarbis" , "Oryza rubribarbis" , "Oryza formosana" , "Oryza sativa" ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Riz, Riz cultiv�"@fr .

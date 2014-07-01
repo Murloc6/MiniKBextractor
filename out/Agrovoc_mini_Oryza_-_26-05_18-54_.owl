@@ -1,0 +1,112 @@
+<http://aims.fao.org/aos/agrovoc/c_5435>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza"@pt , "Oryza"@pl , "Oryza"@en , "Oryza"@fr , "Oryza"@lo , "Oryza"@es , "Oryza"@hu , "Oryza"@sk , "Oryza"@it , "Oryza"@tr , "Oryza"@cs , "Oryza"@th , "Oryza"@ru , "稻属"@zh , "イネ属"@ja , "ओराइजा (धान )"@hi , "اوریزا"@fa , "ORYZA"@de , "أورزا"@ar , "오리자속"@ko ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Ryż"@pl , "rýže"@cs , "Aceite de salvado de arroz"@es , "Huile de son de riz"@fr , "rice (plant)"@en , "جنس برنج (گیاه)"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_24352>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5435> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "ओराइजा लांगीस्टेमीनाटा"@hi , "أورزا لونغيستاميناتا"@ar , "Oryza longistaminata"@sk , "Oryza longistaminata"@th , "Oryza longistaminata"@it , "Oryza longistaminata"@en , "Oryza longistaminata"@tr , "Oryza longistaminata"@ru , "Oryza longistaminata"@es , "Oryza longistaminata"@pt , "Oryza longistaminata"@lo , "Oryza longistaminata"@cs , "Oryza longistaminata"@fr , "Oryza longistaminata"@pl , "Oryza longistaminata"@hu , "ORYZA LONGISTAMINATA"@de , "长秆稻"@zh , "اوریزا لونژیستامیناتا"@fa , "オリザ　ロンギスタミナータ"@ja ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_5436>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5435> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "اوریزا گلابریما"@fa , "ओराइजा ग्लेबेरिमा"@hi , "أورزا غلابريما"@ar , "グラベリマイネ"@ja , "Oryza glaberrima"@th , "Oryza glaberrima"@tr , "ORYZA GLABERRIMA"@de , "Oryza glaberrima"@ru , "秃芒稻"@zh , "Oryza glaberrima"@lo , "Oryza glaberrima"@pt , "Oryza glaberrima"@en , "Oryza glaberrima"@cs , "Oryza glaberrima"@pl , "Oryza glaberrima"@sk , "Oryza glaberrima"@es , "Oryza glaberrima"@hu , "Oryza glaberrima"@fr , "Oryza glaberrima"@it ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "afrikai rizs"@hu , "Ryż afrykański"@pl , "African rice"@sk , "非洲稻"@zh , "African rice"@en , "rýže africká"@cs , "Afrika pirinci"@tr , "Arroz africano"@pt , "Arroz africano"@es , "AFRIKANISCHER REIS"@de , "アフリカイネ"@ja , "ఆఫ్రికా ప్రాంతపు వరి"@te , "рис африканский"@ru , "अफ्रीकी चावल"@hi , "Riso africano"@it , "برنج آفريقايي"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_24354>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5435> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza punctata"@th , "Oryza punctata"@en , "Oryza punctata"@ru , "Oryza punctata"@cs , "Oryza punctata"@fr , "Oryza punctata"@lo , "Oryza punctata"@pt , "Oryza punctata"@es , "Oryza punctata"@sk , "ORYZA PUNCTATA"@de , "اوریزا پونکتاتا"@fa , "ओराइजा पंकटाटा"@hi , "直芒稻"@zh , "أورزا بونكتاتا"@ar , "オリザ　プンクタタ"@ja , "Oryza punctata"@hu , "Oryza punctata"@pl , "Oryza punctata"@tr , "Oryza punctata"@it ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_24353>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5435> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza perennis"@es , "多年生野稻"@zh , "Oryza perennis"@ru , "Oryza perennis"@pl , "Oryza perennis"@hu , "Oryza perennis"@fr , "Oryza perennis"@cs , "Oryza perennis"@it , "Oryza perennis"@tr , "Oryza perennis"@en , "ORYZA PERENNIS"@de , "اوریزا پرنیس"@fa , "オリザ　ペレンニス"@ja , "ओराइजा पेरेनिस"@hi , "أورزا بيرنيس"@ar , "Oryza perennis"@lo , "Oryza perennis"@th , "Oryza perennis"@pt , "Oryza perennis"@sk ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Ryż trwały"@pl , "рис многолетний"@ru ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_5437>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5435> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "ओराइजा रुफिपोगन"@hi , "اوریزا روفیپوگون"@fa , "Oryza rufipogón"@es , "ORYZA RUFIPOGON"@de , "أورزا روفبوغون"@ar , "红芒稻"@zh , "Oryza rufipogon"@tr , "Oryza rufipogon"@sk , "Oryza rufipogon"@pl , "Oryza rufipogon"@hu , "Oryza rufipogon"@lo , "Oryza rufipogon"@it , "Oryza rufipogon"@ru , "Oryza rufipogon"@en , "Oryza rufipogon"@pt , "Oryza rufipogon"@th , "Oryza rufipogon"@fr , "Oryza rufipogon"@cs , "オリザ　ルフィポゴン"@ja ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "オリザ　ファツア"@ja , "Oryza fatua"@fr , "Oryza fatua"@hu , "Oryza fatua"@it , "Oryza fatua"@ru , "Oryza fatua"@th , "Oryza fatua"@pl , "Oryza fatua"@es , "Oryza fatua"@pt , "Oryza fatua"@cs , "Oryza fatua"@en , "رز مبتذل"@ar , "Oryza fatua"@sk , "曲须根野生稻"@zh , "ORYZA FATUA"@de , "اوريزا فاتوآ"@fa , "ओराइजा फटूआ"@hi ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_5438>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5435> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Oryza sativa"@th , "Oryza sativa"@ru , "Oryza sativa"@de , "Oryza sativa"@sk , "Oryza sativa"@tr , "Oryza sativa"@hu , "Oryza sativa"@it , "Oryza sativa"@cs , "Oryza sativa"@lo , "Oryza sativa"@en , "Oryza sativa"@pl , "Oryza sativa"@es , "Oryza sativa"@fr , "Oryza sativa"@pt , "اوریزا ساتیوا"@fa , "稻"@zh , "ओराइजा सेटाइवा (धान)"@hi , "イネ"@ja , "رز مزروع"@ar , "벼"@ko ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "オリザ　インディカ、インド型イネ、インディカイネ"@ja , "Ryż siewny"@pl , "اوريزا انديكا"@fa , "糯"@zh , "オリザ　ジャポニカ、日本型イネ、ジャポニカイネ"@ja , "Oryza indica"@th , "رز ياباني"@ar , "Oryza indica"@en , "Oryza indica"@ru , "Oryza indica"@it , "Oryza indica"@cs , "Oryza indica"@pl , "Oryza indica"@fr , "Oryza indica"@pt , "Oryza indica"@lo , "Oryza indica"@hu , "Oryza indica"@sk , "Oryza indica"@es , "ओराइजा इंडिका"@hi , "ओराइजा जैपोनिका"@hi , "رز هندي"@ar , "اوريزا ژاپونيكا"@fa , "ORYZA INDICA"@de , "рис посевной"@ru , "日本稻"@zh , "Oryza japonica"@pt , "Oryza japonica"@sk , "Oryza japonica"@cs , "Oryza japonica"@th , "Oryza japonica"@pl , "Oryza japonica"@it , "Oryza japonica"@en , "Oryza japonica"@ru , "Oryza japonica"@es , "Oryza japonica"@lo , "Oryza japonica"@de , "Oryza japonica"@fr , "Oryza japonica"@hu ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_8076>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5435> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "陸稲"@ja , "Yayla çeltiği"@tr , "برنج دیم"@fa , "Upland rice"@en , "Ryż suchy (roślina)"@pl , "Riz pluvial"@fr , "Arroz de sequeiro"@pt , "рис суходольный"@ru , "ເຂົ້າບົກ"@lo , "nezavlažovaná ryža"@sk , "陆稻"@zh , "ข้าวไร่"@th , "Arroz de secano"@es , "أرز الأراضي المرتفعة"@ar , "उच्च भूमि चावल"@hi , "hegyi rizs"@hu , "nezavlažovaná rýže"@cs , "TROCKENREIS"@de , "Riso di altopiano"@it , "밭벼"@ko ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Arroz de montaña"@es , "Riz de montagne"@fr , "Yağmur çeltiği"@tr ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_34362>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5435> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "mocsári rizs"@hu , "Arroz das terras húmidas"@pt , "沼沢地イネ"@ja , "आर्द्र भूमि चावल"@hi , "ເຂົ້ານາທາມ"@lo , "Arroz de tierras humedas"@es , "ข้าวนาดำ"@th , "bažinná rýže"@cs , "Riso a sommersione non controllata"@it , "برنج نمزار"@fa , "Riz aquatique"@fr , "Sulak alan çeltiği"@tr , "湿地稻"@zh , "أرز الأراضي الرطبة"@ar , "bažinná ryža"@sk , "REIS AUS FEUCHTGEBIET"@de , "Wetland rice"@en , "рис низинный"@ru , "Ryż mokry (roślina)"@pl ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_2979>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_34362> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Ryż zalewowy (roślina)"@pl , "부유벼"@ko , "ข้าวขึ้นน้ำ"@th , "水稲"@ja , "elárasztott rizs"@hu , "浸渍稻"@zh , "अप्लावित धान"@hi , "рис затопляемый"@ru , "zaplavovaná rýže"@cs , "Flooded rice"@en , "ముంపు నీటి వరి"@te , "Göllendirmeyle sulanmış çeltik"@tr , "أرز الغمر"@ar , "zaplavovaná ryža"@sk , "ເຂົ້າລອຍ"@lo , "Arroz acuático"@es , "Riz inondé"@fr , "TIEFWASSERREIS"@de , "Arroz inundado"@pt , "Riso sommerso"@it , "برنج سیلابی"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Arroz en aguas profundas"@es , "vodní rýže"@cs , "Riz de bas fond"@fr , "árasztásos rizs"@hu , "ข้าวทนน้ำลึก"@th , "गहरे जल का धान"@hi , "Riz de submersion profonde"@fr , "深水稲、"@ja , "Riz submergé"@fr , "Derin su çeltiği"@tr , "Ryż głębokozalewowy"@pl , "Arroz em águas profundas"@pt , "Riso in acque profonde"@it , "Deep water rice"@en , "рис глубокого затопления"@ru ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_15724>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#Taxon> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_34362> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "水稲"@ja , "Irrigated rice"@en , "논벼"@ko , "BEWAESSERTER REIS"@de , "рис орошаемый"@ru , "నీటి పారుదల వరి"@te , "zavlažovaná ryža"@sk , "Sulu çeltik"@tr , "Ryż nawadniany"@pl , "Arroz irrigado"@es , "öntözött rizs"@hu , "Arroz irrigado"@pt , "برنج آبی"@fa , "أرز مروي"@ar , "ข้าวนาชลประทาน"@th , "zavlažovaná rýže"@cs , "灌溉稻"@zh , "सिंचित धान"@hi , "Riz irrigué"@fr , "Riso irriguo"@it ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Bewässerter Reis"@de ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .

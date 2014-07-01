@@ -1,0 +1,116 @@
+<http://aims.fao.org/aos/agrovoc/c_5608>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#GenusRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum"@sk , "Paspalum"@th , "Paspalum"@es , "Paspalum"@lo , "Paspalum"@hu , "Paspalum"@pt , "Paspalum"@fr , "Paspalum"@it , "Paspalum"@en , "Paspalum"@cs , "Paspalum"@pl , "Paspalum"@tr , "Paspalum"@ru , "참새피속"@ko , "پاسپالوم"@fa , "PASPALUM"@de , "雀稗属"@zh , "スズメノヒエ属"@ja , "بسبالوم"@ar , "पस्पेलम्"@hi ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "جنس چمن پایابی"@fa , "جنس ارزن باتلاقی"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_32199>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5608> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum distichum"@pt , "Paspalum distichum"@it , "Paspalum distichum"@tr , "Paspalum distichum"@ru , "Paspalum distichum"@fr , "Paspalum distichum"@es , "Paspalum distichum"@sk , "Paspalum distichum"@en , "Paspalum distichum"@lo , "Paspalum distichum"@hu , "Paspalum distichum"@th , "PASPALUM DISTICHUM"@de , "بسبالوم ذوالصفين"@ar , "پاسپالوم دیستیکوم"@fa , "paspalum distichum"@cs , "पस्पेलम् डिस्टिकम्"@hi , "双穗雀稗"@zh , "キシュウスズメノヒエ、カリマタスズメノヒエ"@ja , "Paspalum distichum"@pl ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "سه‌چکه‌واش"@fa , "Su ayrığı"@tr , "Gramón (cynodon)"@es , "ارزن باتلاقی دوطرفی"@fa , "Paspalum paspalodes"@hu , "Paspalum paspalodes"@pt , "Paspalum paspalodes"@th , "Paspalum paspalodes"@fr , "Paspalum paspalodes"@en , "PASPALUM PASPALODES"@de , "Paspalum paspalodes"@pl , "Paspalum paspalodes"@sk , "Paspalum paspalodes"@lo , "Paspalum paspalodes"@es , "Paspalum paspalodes"@it , "چمن پایابی دوردیفی"@fa , "पस्पेलम् पेस्पेलोड्स"@hi , "カリマタスズメノヒエ、キシュウスズメノヒエ"@ja , "بسبالوم بسبالودي"@ar , "پاسپالوم پاسپالورس"@fa , "paspalum paspalodes"@cs ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_5610>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5608> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "Paspalum dilatatum"@en , "Paspalum dilatatum"@cs , "Paspalum dilatatum"@lo , "Paspalum dilatatum"@pl , "Paspalum dilatatum"@pt , "Paspalum dilatatum"@ru , "Paspalum dilatatum"@fr , "Paspalum dilatatum"@it , "Paspalum dilatatum"@hu , "Paspalum dilatatum"@tr , "Paspalum dilatatum"@es , "Paspalum dilatatum"@sk , "Paspalum dilatatum"@th , "پاسپالوم دیلاتاتوم"@fa , "달리스그라스"@ko , "पस्पेलम् डिलाटेटम्"@hi , "بسبالوم متسع"@ar , "PASPALUM DILATATUM"@de , "ダリスグラス"@ja , "毛花雀稗"@zh ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "雀稗草"@zh , "Pasto dalis"@es , "Chepica"@es , "Pasto dallas"@es , "Milhã-graminheira"@pt , "Zacate meloso"@es , "Adi yalancı darı"@tr , "dallis grass"@cs , "Grama de agua"@es , "DALLISGRAS"@de , "Zacate dalis"@es , "Pasto meloso"@es , "چمن پایابی"@fa , "Zacate de australia"@es , "Pasto dulce"@es , "Panico brasiliano"@it , "Hierba dallis"@es , "Canara"@es , "डालिस घास"@hi , "Pasto de australia"@es , "댈리스그래스"@ko , "داليس گراس"@fa , "Pasto miel"@es , "Yerba dalis"@es , "ارزن باتلاقی"@fa , "Zacate polaco"@es , "Zacate dulce"@es , "Dallis grass"@sk , "Dallis grass"@en , "Pasto polaco"@es , "Zacate miel"@es , "паспалум расширенный"@ru , "Dallis otu"@tr ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_32200>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5608> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "パスパルム　ファスキクラツム"@ja , "पस्पेलम् फैस्कीक्यूलेटम्"@hi , "paspalum fasciculatum"@cs , "Paspalum fasciculatum"@sk , "雀稗朝天椒"@zh , "Paspalum fasciculatum"@it , "Paspalum fasciculatum"@th , "Paspalum fasciculatum"@lo , "PASPALUM FASCICULATUM"@de , "Paspalum fasciculatum"@tr , "Paspalum fasciculatum"@ru , "Paspalum fasciculatum"@fr , "Paspalum fasciculatum"@pl , "Paspalum fasciculatum"@en , "Paspalum fasciculatum"@pt , "Paspalum fasciculatum"@es , "Paspalum fasciculatum"@hu , "بسبالوم حزيمي"@ar , "پاسپالوم فاسیکولاتوم"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_5613>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5608> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "하라카조"@ko , "PASPALUM SCROBICULATUM"@de , "पस्पेलम् स्क्रोबाइकुलेटम्"@hi , "paspalum scrobiculatum"@cs , "پاسپالوم اسکروبیکولاتوم"@fa , "Paspalum scrobiculatum"@fr , "Paspalum scrobiculatum"@pt , "Paspalum scrobiculatum"@en , "Paspalum scrobiculatum"@ru , "Paspalum scrobiculatum"@th , "Paspalum scrobiculatum"@lo , "Paspalum scrobiculatum"@pl , "Paspalum scrobiculatum"@tr , "Paspalum scrobiculatum"@es , "Paspalum scrobiculatum"@sk , "Paspalum scrobiculatum"@it , "Paspalum scrobiculatum"@hu , "コドラ"@ja , "园果雀稗"@zh , "بسبالوم سكروبيكولاتوم"@ar ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Harkara"@hu , "鸭乸草"@zh , "Herbe à épée"@fr , "Mijo koda"@es , "康氏雀稗"@zh , "PASPALUM COMMERSONII"@de , "паспалум ямчатый"@ru , "پاسپالوم كومرسوني‌اي"@fa , "スズメノコビエ"@ja , "Paspalum commersonii"@pt , "Paspalum commersonii"@fr , "Paspalum commersonii"@sk , "haraka"@cs , "haraka"@en , "Paspalum commersonii"@es , "Paspalum commersonii"@pl , "Paspalum commersonii"@ru , "Paspalum commersonii"@th , "Paspalum commersonii"@it , "Paspalum commersonii"@hu , "Paspalum commersonii"@en , "paspal prosovitý (proso koda)"@sk , "ارزن كودو"@fa , "paspal proso"@sk , "Likamba"@pt , "paspalum commersonii"@cs , "Haraka"@tr , "코도밀렛"@ko , "بسبالوم كوميرسوني"@ar , "kodo millet"@en , "पस्पेलम् काँमरसोनी"@hi , "हराका"@hi , "ハラカ"@ja , "Miglio di Koda"@it , "ఆరికెలు"@te , "koda"@cs , "कोदो ज्वार"@hi ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_5614>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5608> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "サワスズメノヒエ"@ja , "海滨雀稗"@zh , "Paspalum vaginatum"@sk , "پاسپالوم واژیناتوم"@fa , "Paspalum vaginatum"@tr , "Paspalum vaginatum"@pt , "Paspalum vaginatum"@th , "Paspalum vaginatum"@hu , "Paspalum vaginatum"@pl , "Paspalum vaginatum"@es , "Paspalum vaginatum"@ru , "Paspalum vaginatum"@en , "Paspalum vaginatum"@lo , "Paspalum vaginatum"@fr , "Paspalum vaginatum"@it , "PASPALUM VAGINATUM"@de , "بسبالوم مغمد"@ar , "पस्पेलम वैगीनेटम"@hi , "paspalum vaginatum"@cs ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Hierba de aluvión"@es , "Herbe rampante"@fr , "Herbe savane"@fr , "Grama de mar"@es ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_5612>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5608> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "棕籽雀稗"@zh , "Paspalum plicatulum"@es , "Paspalum plicatulum"@tr , "Paspalum plicatulum"@fr , "Paspalum plicatulum"@it , "Paspalum plicatulum"@pt , "Paspalum plicatulum"@th , "Paspalum plicatulum"@lo , "Paspalum plicatulum"@sk , "Paspalum plicatulum"@en , "Paspalum plicatulum"@pl , "پاسپالوم پلیکاتولوم"@fa , "PASPALUM PLICATULUM"@de , "paspalum plicatulum"@cs , "パスパルム　プリカツルム"@ja , "पस्पेलम् प्लीकैटूलुम"@hi , "بسبالوم مطوي"@ar , "Paspalum plicatulum"@ru , "Paspalum plicatulum"@hu ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Pasto negro (paspalum)"@es , "Camalote"@es , "Grama negra (paspalum)"@es , "Hierba del caballo"@es , "Paspalum de semilla parda"@es , "Batatas"@es , "Gamalotillo"@es , "Hierba de cepa"@es , "Pajillo"@es , "Cortadera"@es ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_32203>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5608> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "PASPALUM URVILLEI"@de , "乸氏雀稗"@zh , "بسبالوم أرفيللي"@ar , "タチスズメノヒエ、ベージーグラス"@ja , "Paspalum urvillei"@en , "Paspalum urvillei"@tr , "Paspalum urvillei"@sk , "Paspalum urvillei"@lo , "Paspalum urvillei"@hu , "Paspalum urvillei"@pt , "Paspalum urvillei"@pl , "Paspalum urvillei"@ru , "Paspalum urvillei"@es , "Paspalum urvillei"@th , "Paspalum urvillei"@fr , "Paspalum urvillei"@it , "paspalum urvillei"@cs , "پاسپالوم اورویله‌ای"@fa , "पस्पेलम् उर्विली"@hi ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "ارزن باتلاقی آمریکایی"@fa , "چمن پایابی آمریکایی"@fa ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_32202>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5608> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "بسبالوم عصوي"@ar , "paspalum virgatum"@cs , "パスパルム　ウィガツム"@ja , "पस्पेलम् विरगेटम्"@hi , "PASPALUM VIRGATUM"@de , "多枝雀稗"@zh , "Paspalum virgatum"@th , "پاسپالوم ویرگاتوم"@fa , "Paspalum virgatum"@es , "Paspalum virgatum"@en , "Paspalum virgatum"@fr , "Paspalum virgatum"@tr , "Paspalum virgatum"@ru , "Paspalum virgatum"@pl , "Paspalum virgatum"@it , "Paspalum virgatum"@pt , "Paspalum virgatum"@sk , "Paspalum virgatum"@hu , "Paspalum virgatum"@lo ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Caguazo"@es ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_5609>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5608> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "毛颖雀稗"@zh , "پاسپالوم کونژوگاتوم"@fa , "Paspalum conjugatum"@tr , "Paspalum conjugatum"@pl , "Paspalum conjugatum"@it , "Paspalum conjugatum"@pt , "Paspalum conjugatum"@sk , "Paspalum conjugatum"@ru , "Paspalum conjugatum"@fr , "Paspalum conjugatum"@hu , "Paspalum conjugatum"@lo , "Paspalum conjugatum"@es , "Paspalum conjugatum"@th , "Paspalum conjugatum"@en , "파스팔룸콘주게툼"@ko , "PASPALUM CONJUGATUM"@de , "पस्पेलम् कन्जूगेटम्"@hi , "オガサワラスズメノヒエ"@ja , "بسبالوم ثنائي مزدوج"@ar , "paspalum conjugatum"@cs ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "паспалум спаренный"@ru , "paspal hilo"@cs , "علف گاوي"@fa , "힐로그라스"@ko , "หญ้าลูกเห็บ"@th , "Horquetilla"@es , "Cambute (paspalum)"@es , "Paspalo coniugato"@it , "Yerba agria"@es , "ヒログラス"@ja , "叉仔草"@zh , "paspal spojený"@cs , "Capim gordo"@pt , "hilo grass"@en , "Torvara"@es , "버팔로그라스"@ko , "हीलो घास"@hi , "หญ้านมหนอน"@th , "bivalyfû"@hu , "paspal (Paspalum conjugatum)"@sk , "बफैलो घास/ भैस घास"@hi , "paspal"@sk , "buffalo grass"@en , "Pasto hilo"@es , "Torurco"@es , "Pasto amargo"@es , "Paja de canela"@es , "Grama de antena"@es , "Herbe créole"@fr , "Cañamazo amargo"@es , "Zacate amargo (paspalum)"@es ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
+
+<http://aims.fao.org/aos/agrovoc/c_5611>
+        a       <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank>
+                <http://aims.fao.org/aos/agrovoc/c_5608> ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasScientificName>
+                "بسبالوم نوثاثوم"@ar , "Paspalum notatum"@sk , "Paspalum notatum"@tr , "Paspalum notatum"@lo , "Paspalum notatum"@th , "Paspalum notatum"@es , "Paspalum notatum"@it , "Paspalum notatum"@pt , "Paspalum notatum"@hu , "Paspalum notatum"@pl , "Paspalum notatum"@en , "Paspalum notatum"@ru , "Paspalum notatum"@fr , "Paspalum notatum"@cs , "پاسپالوم نوتاتوم"@fa , "PASPALUM NOTATUM"@de , "アメリカスズメノヒエ"@ja , "标志雀稗"@zh , "पस्पेलम् नोटेटम्"@hi , "바히아그라스"@ko ;
+        <http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName>
+                "Gengibrillo"@es , "Zacate horqueta"@es , "bahijská tráva"@cs , "बहिया घास"@hi , "Gramillón (paspalum)"@es , "Remolino (pasto)"@es , "Herbe de bahia"@fr , "bahia grass"@sk , "Horqueta"@es , "гречка заметная"@ru , "바히아그래스"@ko , "bahia fű"@hu , "Pasto manso"@es , "Gramilla (paspalum)"@es , "Yerba menuda"@es , "Bahia grass"@en , "Pasto horqueta"@es , "BAHIAGRAS"@de , "Trenza"@es , "Grama dulce"@es , "Gramilla blanca"@es , "Pasto bahía"@es , "Grama (paspalum)"@es , "Grama baía"@pt , "Gramignone d'acqua"@it , "Pasto chato (paspalum)"@es , "百喜草"@zh ;
+        <http://ontology.irstea.fr/AgronomicTaxon#inScheme>
+                <http://ontology.irstea.fr/AGROVOCTaxon#classification_AGROVOC> .
