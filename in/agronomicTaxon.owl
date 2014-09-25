@@ -1,15 +1,3 @@
-<http://ontology.irstea.fr/AgronomicTaxon> rdf:type :Ontology ;
-                                           
-                                           terms:title "Agronomic Taxon module"@en ;
-                                           
-                                           terms:creator "Catherine ROUSSEY from Irstea"@en ;
-                                           
-                                           rdfs:comment """created by irstea. This ontology is a module that is based on skos vocabulary, ODP from neon project : linnean taxonomy ODP and classification ODP. 
-It reuse also some rdf label of biol dataset."""@en ,
-                                                        "last update september 2014 "@en ;
-                                           
-                                           :imports <http://www.w3.org/2004/02/skos/core> .
-
 
 #################################################################
 #
