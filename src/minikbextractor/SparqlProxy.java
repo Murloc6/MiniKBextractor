@@ -87,6 +87,7 @@ public class SparqlProxy implements Serializable
                                             "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>"+
                                             "PREFIX owl:    <http://www.w3.org/2002/07/owl#>"+
                                             "PREFIX skos: <http://www.w3.org/2004/02/skos/core#>"+
+                                            "PREFIX  xsd:  <http://www.w3.org/2001/XMLSchema#>"+
                                             //"PREFIX foaf: <http://xmlns.com/foaf/0.1/>"+
                                             //"PREFIX dc: <http://purl.org/dc/elements/1.1/>"+
                                             //"PREFIX pf: <http://jena.hpl.hp.com/ARQ/property#>"+
@@ -100,6 +101,7 @@ public class SparqlProxy implements Serializable
                                             "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>"+
                                             "PREFIX owl:    <http://www.w3.org/2002/07/owl#>"+
                                             "PREFIX skos: <http://www.w3.org/2004/02/skos/core#>"+
+                                            "PREFIX  xsd:  <http://www.w3.org/2001/XMLSchema#>"+
                                             //"PREFIX foaf: <http://xmlns.com/foaf/0.1/>"+
                                             //"PREFIX dc: <http://purl.org/dc/elements/1.1/>"+
                                             //"PREFIX pf: <http://jena.hpl.hp.com/ARQ/property#>"+
@@ -338,10 +340,16 @@ public class SparqlProxy implements Serializable
             return ret;
         }*/
     
-        public boolean storeData(StringBuilder query)
+         public boolean storeData(StringBuilder query)
+         {
+             return this.storeData(query, true);
+         }
+         
+        public boolean storeData(StringBuilder query, boolean makeQuery)
     {
         boolean ret = true;
-        query = SparqlProxy.makeQuery(query);
+        if(makeQuery)
+            query = SparqlProxy.makeQuery(query);
          HttpURLConnection connection = null;  
             try 
             {

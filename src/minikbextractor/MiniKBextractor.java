@@ -23,41 +23,41 @@ public class MiniKBextractor {
      */
     public static void main(String[] args) 
     {
-        
+        String adomFile = "in/agronomicTaxon.owl";
         
         ArrayList<Source> sources = new ArrayList();
         
-       /* SparqlProxy spInAgrovoc = SparqlProxy.getSparqlProxy("http://amarger.murloc.fr:8080/Agrovoc2KB_OUT/");
+        SparqlProxy spInAgrovoc = SparqlProxy.getSparqlProxy("http://amarger.murloc.fr:8080/Agrovoc2KB_TESTClass_out/");
         HashMap<String, String> limitSpOutAgrovoc = new HashMap<>();
-        limitSpOutAgrovoc.put("http://aims.fao.org/aos/agrovoc/c_5608", "http://amarger.murloc.fr:8080/Agrovoc_mini_Paspalum/");
+        //limitSpOutAgrovoc.put("http://aims.fao.org/aos/agrovoc/c_5608", "http://amarger.murloc.fr:8080/Agrovoc_mini_Paspalum/");
         limitSpOutAgrovoc.put("http://aims.fao.org/aos/agrovoc/c_148", "http://amarger.murloc.fr:8080/Agrovoc_mini_Aegilops/");
-        limitSpOutAgrovoc.put("http://aims.fao.org/aos/agrovoc/c_5435", "http://amarger.murloc.fr:8080/Agrovoc_mini_Oryza/");
+        //imitSpOutAgrovoc.put("http://aims.fao.org/aos/agrovoc/c_5435", "http://amarger.murloc.fr:8080/Agrovoc_mini_Oryza/");
         limitSpOutAgrovoc.put("http://aims.fao.org/aos/agrovoc/c_7950", "http://amarger.murloc.fr:8080/Agrovoc_mini_Triticum/");
 
         String nameAgrovoc = "Agrovoc";
         
-        sources.add(new Source(spInAgrovoc, nameAgrovoc, limitSpOutAgrovoc));
-*/
-        /*SparqlProxy spInTaxRef = SparqlProxy.getSparqlProxy("http://amarger.murloc.fr:8080/TaxRef2RKB_out_TEST/");
+        sources.add(new Source(spInAgrovoc, nameAgrovoc, limitSpOutAgrovoc, adomFile));
+
+        SparqlProxy spInTaxRef = SparqlProxy.getSparqlProxy("http://amarger.murloc.fr:8080/TaxRef2RKB_out_TEST/");
         HashMap<String, String> limitSpOutTaxRef = new HashMap<>();
-        limitSpOutTaxRef.put("http://inpn.mnhn.fr/espece/cd_nom/195870", "http://amarger.murloc.fr:8080/TaxRef_mini_Paspalum/");
+        //limitSpOutTaxRef.put("http://inpn.mnhn.fr/espece/cd_nom/195870", "http://amarger.murloc.fr:8080/TaxRef_mini_Paspalum/");
         limitSpOutTaxRef.put("http://inpn.mnhn.fr/espece/cd_nom/188834", "http://amarger.murloc.fr:8080/TaxRef_mini_Aegilops/");
-        limitSpOutTaxRef.put("http://inpn.mnhn.fr/espece/cd_nom/195564", "http://amarger.murloc.fr:8080/TaxRef_mini_Oryza/");
+        //limitSpOutTaxRef.put("http://inpn.mnhn.fr/espece/cd_nom/195564", "http://amarger.murloc.fr:8080/TaxRef_mini_Oryza/");
         limitSpOutTaxRef.put("http://inpn.mnhn.fr/espece/cd_nom/198676", "http://amarger.murloc.fr:8080/TaxRef_mini_Triticum/");
         //String limitUriTaxRef = "http://inpn.mnhn.fr/espece/cd_nom/187444"; //Poaceae
         String nameTaxRef = "TaxRef   ";
         
-        sources.add(new Source(spInTaxRef,nameTaxRef, limitSpOutTaxRef));*/
+        sources.add(new Source(spInTaxRef,nameTaxRef, limitSpOutTaxRef, adomFile));
         
         SparqlProxy spInNCBI = SparqlProxy.getSparqlProxy("http://amarger.murloc.fr:8080/Ncbi2RKB_out/");
         HashMap<String, String> limitSpOutNCBI = new HashMap<>();
         //limitSpOutNCBI.put("http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147271", "http://amarger.murloc.fr:8080/NCBI_mini_Paspalum/");
         limitSpOutNCBI.put("http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4480", "http://amarger.murloc.fr:8080/NCBI_mini_Aegilops/");
-        limitSpOutNCBI.put("http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527", "http://amarger.murloc.fr:8080/NCBI_mini_Oryza/");
-        //limitSpOutNCBI.put("http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564", "http://amarger.murloc.fr:8080/NCBI_mini_Triticum/");
+        //limitSpOutNCBI.put("http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4527", "http://amarger.murloc.fr:8080/NCBI_mini_Oryza/");
+        limitSpOutNCBI.put("http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564", "http://amarger.murloc.fr:8080/NCBI_mini_Triticum/");
         String nameNCBI = "NCBI";
         
-        sources.add(new Source(spInNCBI,nameNCBI, limitSpOutNCBI));  
+        sources.add(new Source(spInNCBI,nameNCBI, limitSpOutNCBI, adomFile));  
         
         
        for(Source s : sources)
