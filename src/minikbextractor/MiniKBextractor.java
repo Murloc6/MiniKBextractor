@@ -23,7 +23,7 @@ public class MiniKBextractor {
      */
     public static void main(String[] args) 
     {
-        String adomFile = "in/agronomicTaxon.owl";
+        String adomFile = "in/AgronomicTaxon.ttl";
         
         ArrayList<Source> sources = new ArrayList();
         

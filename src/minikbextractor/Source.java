@@ -119,13 +119,13 @@ public class Source
         System.out.println("Erasing previous SPout");
         spOut.clearSp();
         
-        System.out.println("Exporting ADOM ...");
+        /*System.out.println("Exporting ADOM ...");
         if(!spOut.storeData(new StringBuilder(this.getADOMTtl()), false))
         {
             System.out.println("ERROR during exporting ADOM");
             System.exit(0);
         }
-        System.out.println("ADOM exported!");
+        System.out.println("ADOM exported!");*/
         
         // Add on spOut new classes extracted (all of them)
         ArrayList<JsonNode> newClasses = this.spIn.getResponse("SELECT ?c WHERE {?c rdfs:subClassOf <http://ontology.irstea.fr/AgronomicTaxon#Taxon>.}");
